@@ -12,7 +12,7 @@ import androidx.compose.ui.unit.dp
 import com.example.tomandjerry.ui.theme.SecondaryColor
 
 @Composable
-fun NotificationAlarmIcon(
+fun DefaultIcon(
     modifier: Modifier = Modifier,
     painter: Painter,
     contentDescription: String?
