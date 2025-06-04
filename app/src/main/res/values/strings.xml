@@ -8,4 +8,11 @@
     <string name="sport_tom">Sport Tom</string>
     <string name="he_runs_1_meter_trips_over_his_boot">He runs 1 meter… trips \n over his boot.</string>
     <string name="_5_cheeses">5 cheeses</string>
+    <string name="ruler_icon">ruler icon</string>
+    <string name="shocking_foods">Shocking foods</string>
+    <string name="pasta_cooked_with_a_charger_cable">Pasta cooked with a charger cable and sprinkled with questionable cheese. Make sure to unplug it before eating (or not, you decide).</string>
+    <string name="details">Details</string>
+    <string name="temperature">Temperature</string>
+    <string name="_1000_v">1000 V</string>
+    <string name="preparation_method">Preparation method</string>
 </resources>

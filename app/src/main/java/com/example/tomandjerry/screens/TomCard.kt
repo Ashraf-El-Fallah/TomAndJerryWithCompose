@@ -13,7 +13,7 @@ val tomCards= listOf(
     TomCard(
         title = "Sport Tom",
         description = "He runs 1 meter... trips over his boot.",
-        price = "5 3 cheeses",
+        price = "3 cheeses",
         imageRes = R.drawable.tom_card_1,
     ),
     TomCard(
@@ -25,25 +25,25 @@ val tomCards= listOf(
     TomCard(
         title = "Tom the bomb",
         description = "He blows himself up before Jerry can catch him.",
-        price = "10 cheeses",
+        price = "3 cheeses",
         imageRes = R.drawable.tom_card_3,
     ),
     TomCard(
         title = "Spy Tom",
         description = "Disguises itself as a table.",
-        price = "12 cheeses",
+        price = "6 cheeses",
         imageRes = R.drawable.tom_card_4,
     ),
     TomCard(
         title = "Frozen Tom",
         description = "He was chasing Jerry, he froze after the first look",
-        price = "10 cheeses",
+        price = "7 cheeses",
         imageRes = R.drawable.tom_card_5,
     ),
     TomCard(
         title = "Sleeping Tom",
         description = "He doesn't chase anyone, he just snores in stereo.",
-        price = "10 cheeses",
+        price = "9 cheeses",
         imageRes = R.drawable.tom_card_6,
     ),
 )
